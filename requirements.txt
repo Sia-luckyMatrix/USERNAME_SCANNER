@@ -1,0 +1,5 @@
+customtkinter>=6.0.0
+httpx>=0.27.0
+pyperclip>=1.8.2
+pillow>=10.0.0
+darkdetect>=0.8.0

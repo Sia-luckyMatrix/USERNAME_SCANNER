@@ -1,0 +1,28 @@
+[2026-10-20 14:55:28] [INFO] [UserScanner] Starting USER SCANNER GUI...
+[2026-10-20 14:55:53] [INFO] [UserScanner] Initiating username scan for: 'yuvraj'
+[2026-10-20 14:55:56] [INFO] [UserScanner] Scan complete for '@yuvraj': 0 Available, 17 Taken, 3 Unknown, 0 Invalid (3.41s)
+[2026-10-20 14:58:52] [INFO] [UserScanner] Initiating username scan for: 'apurva jain'
+[2026-10-20 14:58:53] [INFO] [UserScanner] Scan complete for '@apurva jain': 0 Available, 0 Taken, 0 Unknown, 20 Invalid (1.01s)
+[2026-10-20 14:59:20] [INFO] [UserScanner] Initiating username scan for: 'apurva'
+[2026-10-20 14:59:24] [INFO] [UserScanner] Scan complete for '@apurva': 1 Available, 15 Taken, 4 Unknown, 0 Invalid (3.87s)
+[2026-10-20 14:59:52] [INFO] [UserScanner] Initiating username scan for: 'appu6633'
+[2026-10-20 15:00:00] [INFO] [UserScanner] Scan complete for '@appu6633': 7 Available, 8 Taken, 5 Unknown, 0 Invalid (8.17s)
+[2026-10-22 19:03:54] [INFO] [UserScanner] Starting USER SCANNER GUI...
+[2026-10-22 19:05:03] [INFO] [UserScanner] Initiating username scan for: 'Cyber Matrix HQ'
+[2026-10-22 19:05:04] [INFO] [UserScanner] Scan complete for '@Cyber Matrix HQ': 0 Available, 0 Taken, 0 Unknown, 20 Invalid (1.22s)
+[2026-10-22 19:06:12] [INFO] [UserScanner] Initiating username scan for: 'Cyber Matrix HQ'
+[2026-10-22 19:06:13] [INFO] [UserScanner] Scan complete for '@Cyber Matrix HQ': 0 Available, 0 Taken, 0 Unknown, 20 Invalid (0.50s)
+[2026-10-22 19:06:33] [INFO] [UserScanner] Initiating username scan for: 'The Cyber Paradigm'
+[2026-10-22 19:06:33] [INFO] [UserScanner] Scan complete for '@The Cyber Paradigm': 0 Available, 0 Taken, 0 Unknown, 20 Invalid (0.40s)
+[2026-10-22 19:09:03] [INFO] [UserScanner] Initiating username scan for: 'Cyber_Matrix_HQ'
+[2026-10-22 19:09:06] [INFO] [UserScanner] Scan complete for '@Cyber_Matrix_HQ': 9 Available, 5 Taken, 3 Unknown, 3 Invalid (2.24s)
+[2026-10-22 19:09:37] [INFO] [UserScanner] Initiating username scan for: 'TheCyberParadigm'
+[2026-10-22 19:09:39] [INFO] [UserScanner] Scan complete for '@TheCyberParadigm': 7 Available, 6 Taken, 5 Unknown, 2 Invalid (1.64s)
+[2026-10-24 01:11:44] [INFO] [UserScanner] Starting USER SCANNER GUI...
+[2026-10-24 01:12:24] [INFO] [UserScanner] Initiating username scan for: 'coolusername'
+[2026-10-24 01:12:26] [INFO] [UserScanner] Scan complete for '@coolusername': 2 Available, 15 Taken, 3 Unknown, 0 Invalid (2.54s)
+[2026-10-24 01:18:04] [INFO] [UserScanner] Starting USER SCANNER GUI...
+[2026-10-24 21:55:18] [INFO] [UserScanner] Starting USER SCANNER GUI...
+[2026-10-24 21:55:51] [INFO] [UserScanner] Initiating username scan for: 'username'
+[2026-10-24 21:55:54] [INFO] [UserScanner] Scan complete for '@username': 6 Available, 11 Taken, 3 Unknown, 0 Invalid (3.26s)
+[2026-10-25 17:12:37] [INFO] [UserScanner] Starting USER SCANNER GUI...
